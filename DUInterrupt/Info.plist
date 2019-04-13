@@ -34,6 +34,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSHealthShareUsageDescription</key>
+	<string>DUInterupt needs to access your Healthkit in order to function properly</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>DUInterupt needs to access your Healthkit in order to function properly</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
